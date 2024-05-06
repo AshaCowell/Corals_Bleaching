@@ -25,11 +25,6 @@ print(df.info())
 print("\nSummary statistics for numerical columns:")
 print(df.describe())
 
-import pandas as pd
-
-# Load the Excel file into a Pandas DataFrame
-excel_file = "CoralBleaching-2.xlsx"
-df = pd.read_excel(excel_file)
 
 # Drop rows with missing location information
 df.dropna(subset=['COUNTRY'], inplace=True)
