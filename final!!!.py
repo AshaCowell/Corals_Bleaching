@@ -8,16 +8,17 @@ import seaborn as sns
 
 # Load the dataset
 coral_data = pd.read_excel('CoralBleaching-2.xlsx')
+print ('The first five rows of the dataset include:', coral_data.head())
+print (coral_data.describe())
 
 # Data Cleaning
 coral_data_cleaned = coral_data.dropna(subset=['REGION', 'SUBREGION', 'LOCATION', 'SEVERITY_CODE','BLEACHING_SEVERITY','LAT', 'LON', 'YEAR'])
+print (coral_data_cleaned.describe())
 
 # Summary Statistics
 summary_stats = coral_data_cleaned.describe()
+print (summary_stats.head())
 
-# Correlation Analysis
-coral_data_numeric = coral_data_cleaned.select_dtypes(include=['number'])
-correlation_matrix = coral_data_numeric.corr()
 
 # Bleaching Events Over the Years
 plt.figure(figsize=(10, 6))
