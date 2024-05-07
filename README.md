@@ -1,5 +1,8 @@
-# Coral Bleaching Analysis Project
+# Life is Much Better in Colour
 
+## Coral Bleaching Analysis Project
+
+![Alt text](<Copy of coral bleaching-1.png>)
 ## Introduction
 
 Coral reefs support 25% of marine creatures, despite covering less than 1% of the ocean floor. They are crucial for the environment and human society, providing various benefits such as food, shoreline protection, and tourism valued at 30 billion to 375 billion U.S. dollars annually. However, over the years as the earth warms, they have been significantly impacted by coral bleaching.
@@ -48,7 +51,7 @@ However, the pique of bleaching in the Americas was noted to take place between 
 ![Alt text](image-3.png)
 ## Spatial Analysis
 
-A spatial analysis was conducted to visualize coral bleaching events geospatially. Using the cleaned dataset, maps were generated to illustrate the distribution of bleaching severity levels first globally and then the two regions which based on the dataset had the largest occurences of bleaching were mapped, the Americas and Australia. It was noted that while both regions have expereinced significant coral bleaching, the Americas has had a lot of corals with low bleaching severity, as opposed to Australia which had more occurences of high coral bleaching. Additionally
+A spatial analysis was conducted to visualize coral bleaching events geospatially. Using the cleaned dataset, maps were generated to illustrate the distribution of bleaching severity levels first globally and then the two regions which based on the dataset had the largest occurences of bleaching were mapped, the Americas and Australia. It was noted that while both regions have expereinced significant coral bleaching, the Americas has had a lot of corals with low bleaching severity, as opposed to Australia which had more occurences of high coral bleaching.
 
 ## Conclusion
 
