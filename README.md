@@ -32,7 +32,7 @@ The exploratory data analysis (EDA) phase involved examining the dataset's summa
 A temporal analysis was conducted to investigate coral bleaching trends over time. The analysis included the breakdown of bleaching severity levels and comparisons across different time periods, such as every five years. By analyzing temporal trends, insights were gained into the changing patterns of coral bleaching events.
 
 ## Spatial Analysis
-AA spatial analysis was conducted to visualize coral bleaching events geospatially. Using the cleaned dataset, maps were generated to illustrate the distribution of bleaching severity levels across various regions. This analysis aimed to identify hotspots and trends in coral bleaching, providing insights into the spatial dynamics of coral reef health.
+A spatial analysis was conducted to visualize coral bleaching events geospatially. Using the cleaned dataset, maps were generated to illustrate the distribution of bleaching severity levels across various regions. This analysis aimed to identify hotspots and trends in coral bleaching, providing insights into the spatial dynamics of coral reef health.
 
 ## Conclusion
 In conclusion, this analysis provided valuable insights into coral bleaching trends and patterns. By examining both temporal and spatial aspects of coral bleaching events, this project contributes to our understanding of coral reef health and informs conservation efforts. Continued monitoring and conservation strategies are essential to mitigate the impacts of coral bleaching and preserve these vital marine ecosystems.
